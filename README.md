@@ -35,7 +35,7 @@ Não é permitido cadastrar dois usuários com o mesmo CPF
 
 ▶️ Como Executar  
 1. Clone o repositório  
-git clone https://github.com/seu-usuario/sistema-bancario-python.git  
+git clone https://github.com/deftonessam/sistema-bancario-python.git  
 
 2. Execute o projeto  
 python main.py  
